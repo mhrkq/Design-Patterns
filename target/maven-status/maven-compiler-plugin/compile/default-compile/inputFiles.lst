@@ -14,6 +14,16 @@ D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\com
 D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\command\components\Light.java
 D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\command\components\Room.java
 D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\command\MainApp.java
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\Component.java
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\Dialog.java
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\ForgotPasswordButton.java
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\LoginButton.java
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\MainApp.java
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\Mediator.java
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\template\BaseGameLoader.java
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\template\DiabloLoader.java
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\template\MainApp.java
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\template\WorldOfWarcraftLoader.java
 D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\creational\abstractfactory\factories\ClassicRestaurant.java
 D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\creational\abstractfactory\factories\OrientalRestaurant.java
 D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\creational\abstractfactory\factories\Restaurant.java
