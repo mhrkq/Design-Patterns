@@ -9553,3 +9553,1736 @@ WARNING: Unmatched cancel notification for request id 2277
 2026.02.17 23:30:39 INFO  shutting down Metals
 2026.02.17 23:30:39 INFO  Shut down connection with build server.
 2026.02.17 23:30:39 INFO  Exiting server
+2026.03.13 20:34:26 INFO  Started: Metals version 1.6.6 in folders 'D:\work\Design-Patterns' for client Visual Studio Code 1.111.0.
+2026.03.13 20:34:26 INFO  Memory monitor started
+2026.03.13 20:34:27 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.13 20:34:27 INFO  no build target found for D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\Dialog.java. Using fallback presentation compiler.
+Mar 13, 2026 8:34:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Mar 13, 2026 8:34:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.03.13 20:34:28 INFO  no build target found for D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\Dialog.java. Using fallback presentation compiler.
+2026.03.13 20:34:28 INFO  Attempting to connect to the build server...
+2026.03.13 20:34:28 INFO  No running Bloop server found, starting one.
+2026.03.13 20:34:31 INFO  no build target found for D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\Dialog.java. Using fallback presentation compiler.
+2026.03.13 20:34:31 WARN  no build target for: D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\Dialog.java
+2026.03.13 20:34:31 INFO  no build target found for D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\Dialog.java. Using fallback presentation compiler.
+2026.03.13 20:34:31 INFO  no build target found for D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\Dialog.java. Using fallback presentation compiler.
+2026.03.13 20:34:31 INFO  no build target found for D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\Dialog.java. Using fallback presentation compiler.
+2026.03.13 20:34:32 INFO  Starting compilation server
+2026.03.13 20:34:34 INFO  no build target found for D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\mediator\Dialog.java. Using fallback presentation compiler.
+2026.03.13 20:34:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\work\Design-Patterns\.metals\bsp.trace.json or C:\Users\Tester\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.03.13 20:34:35 INFO  time: Connected to build server in 8.02s
+2026.03.13 20:34:36 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.13 20:34:36 INFO  time: Imported build in 0.14s
+2026.03.13 20:34:39 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.13 20:34:39 INFO  time: indexed workspace in 2.9s
+2026.03.13 20:34:40 INFO  compiling design-patterns-examples (57 java sources)
+2026.03.13 20:34:45 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 20:34:45 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 20:34:45 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 20:34:47 INFO  time: compiled design-patterns-examples in 7.29s
+Mar 13, 2026 8:34:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+Mar 13, 2026 8:34:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+Mar 13, 2026 8:34:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+2026.03.13 21:36:02 INFO  compiling design-patterns-examples (1 java source)
+Mar 13, 2026 9:36:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+2026.03.13 21:36:07 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 21:36:07 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:36:07 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:36:07 INFO  time: compiled design-patterns-examples in 4.55s
+2026.03.13 21:36:20 INFO  compiling design-patterns-examples (1 java source)
+Mar 13, 2026 9:36:21 PM scala.meta.internal.mtags.Semanticdbs$ loadResolvedTextDocument
+WARNING: Could not find text document for D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java, semanticdbdocuments's relative paths were: src/main/java/com/minghui/designpatterns/behavioural/memento/editor.java
+2026.03.13 21:36:22 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 21:36:22 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:36:22 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:36:22 INFO  time: compiled design-patterns-examples in 1.93s
+2026.03.13 21:36:56 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 21:36:57 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:8: error: cannot find symbol
+    private final TextArea textArea;
+                  ^
+  symbol:   class TextArea
+  location: class Editor
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:9: error: cannot find symbol
+    private final Deque<Memento> stateHistory;
+                        ^
+  symbol:   class Memento
+  location: class Editor
+2 errors
+1 warning.
+2026.03.13 21:36:57 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:36:57 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:36:57 WARN  javac exited with exit code 1
+2026.03.13 21:36:57 INFO  time: compiled design-patterns-examples in 1.19s
+2026.03.13 21:37:09 INFO  compiling design-patterns-examples (2 java sources)
+2026.03.13 21:37:10 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:8: error: cannot find symbol
+    private final TextArea textArea;
+                  ^
+  symbol:   class TextArea
+  location: class Editor
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:9: error: cannot find symbol
+    private final Deque<Memento> stateHistory;
+                        ^
+  symbol:   class Memento
+  location: class Editor
+2 errors
+1 warning.
+2026.03.13 21:37:10 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:37:10 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:37:10 WARN  javac exited with exit code 1
+2026.03.13 21:37:10 INFO  time: compiled design-patterns-examples in 1.39s
+2026.03.13 21:37:21 INFO  compiling design-patterns-examples (2 java sources)
+2026.03.13 21:37:22 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:8: error: cannot find symbol
+    private final TextArea textArea;
+                  ^
+  symbol:   class TextArea
+  location: class Editor
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:9: error: cannot find symbol
+    private final Deque<Memento> stateHistory;
+                        ^
+  symbol:   class Memento
+  location: class Editor
+2 errors
+1 warning.
+2026.03.13 21:37:22 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:37:22 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:37:22 WARN  javac exited with exit code 1
+2026.03.13 21:37:22 INFO  time: compiled design-patterns-examples in 1.24s
+2026.03.13 21:37:47 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.13 21:37:49 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:9: error: cannot find symbol
+    private final Deque<Memento> stateHistory;
+                        ^
+  symbol:   class Memento
+  location: class Editor
+1 error
+1 warning.
+2026.03.13 21:37:49 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:37:49 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:37:49 WARN  javac exited with exit code 1
+2026.03.13 21:37:49 INFO  time: compiled design-patterns-examples in 1.81s
+2026.03.13 21:37:54 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.13 21:37:55 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:9: error: cannot find symbol
+    private final Deque<Memento> stateHistory;
+                        ^
+  symbol:   class Memento
+  location: class Editor
+1 error
+1 warning.
+2026.03.13 21:37:55 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:37:55 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:37:55 WARN  javac exited with exit code 1
+2026.03.13 21:37:55 INFO  time: compiled design-patterns-examples in 1.27s
+Mar 13, 2026 9:37:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 205
+Mar 13, 2026 9:37:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 206
+Mar 13, 2026 9:38:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 208
+Mar 13, 2026 9:38:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 222
+Mar 13, 2026 9:38:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 334
+Mar 13, 2026 9:38:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 375
+Mar 13, 2026 9:39:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 515
+2026.03.13 21:39:24 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.13 21:39:25 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:9: error: cannot find symbol
+    private final Deque<Memento> stateHistory;
+                        ^
+  symbol:   class Memento
+  location: class Editor
+1 error
+1 warning.
+2026.03.13 21:39:25 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:39:25 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:39:25 WARN  javac exited with exit code 1
+2026.03.13 21:39:25 INFO  time: compiled design-patterns-examples in 1.11s
+Mar 13, 2026 9:39:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 539
+Mar 13, 2026 9:39:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 559
+2026.03.13 21:40:28 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.13 21:40:29 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.memento;
+                                             ^
+  symbol:   class memento
+  location: package com.minghui.designpatterns.behavioural
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:11: error: cannot find symbol
+    private final Deque<Memento> stateHistory;
+                        ^
+  symbol:   class Memento
+  location: class Editor
+2 errors
+1 warning.
+2026.03.13 21:40:29 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:40:29 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:40:29 WARN  javac exited with exit code 1
+2026.03.13 21:40:29 INFO  time: compiled design-patterns-examples in 1.12s
+Mar 13, 2026 9:40:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 637
+Mar 13, 2026 9:43:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 676
+2026.03.13 21:43:45 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.13 21:43:46 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:3: error: package com.minghui.designpatterns.behavioural.TextArea does not exist
+import com.minghui.designpatterns.behavioural.TextArea.memento;
+                                                      ^
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:11: error: cannot find symbol
+    private final Deque<Memento> stateHistory;
+                        ^
+  symbol:   class Memento
+  location: class Editor
+2 errors
+1 warning.
+2026.03.13 21:43:46 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:43:46 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:43:46 WARN  javac exited with exit code 1
+2026.03.13 21:43:46 INFO  time: compiled design-patterns-examples in 1.23s
+2026.03.13 21:44:13 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.13 21:44:15 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.memento.TextArea.memento;
+                                                              ^
+  symbol:   class memento
+  location: class TextArea
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:11: error: cannot find symbol
+    private final Deque<Memento> stateHistory;
+                        ^
+  symbol:   class Memento
+  location: class Editor
+2 errors
+1 warning.
+2026.03.13 21:44:15 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:44:15 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:44:15 WARN  javac exited with exit code 1
+2026.03.13 21:44:15 INFO  time: compiled design-patterns-examples in 1.33s
+Mar 13, 2026 9:44:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 767
+2026.03.13 21:44:18 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.13 21:44:19 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\memento\Editor.java:11: error: cannot find symbol
+    private final Deque<Memento> stateHistory;
+                        ^
+  symbol:   class Memento
+  location: class Editor
+1 error
+1 warning.
+2026.03.13 21:44:19 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:44:19 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:44:19 WARN  javac exited with exit code 1
+2026.03.13 21:44:19 INFO  time: compiled design-patterns-examples in 1.12s
+Mar 13, 2026 9:44:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 785
+2026.03.13 21:44:35 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.13 21:44:36 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 21:44:36 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:44:36 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:44:36 INFO  time: compiled design-patterns-examples in 1.51s
+Mar 13, 2026 9:44:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 810
+2026.03.13 21:44:41 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 21:44:42 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 21:44:42 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:44:42 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:44:42 INFO  time: compiled design-patterns-examples in 1.44s
+Mar 13, 2026 9:44:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 826
+2026.03.13 21:45:08 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 21:45:09 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 21:45:09 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:45:09 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:45:09 INFO  time: compiled design-patterns-examples in 1.22s
+Mar 13, 2026 9:45:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 923
+Mar 13, 2026 9:45:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 925
+Mar 13, 2026 9:45:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 928
+Mar 13, 2026 9:45:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 930
+2026.03.13 21:45:22 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 21:45:23 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 21:45:23 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:45:23 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:45:23 INFO  time: compiled design-patterns-examples in 1.19s
+2026.03.13 21:45:50 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 21:45:52 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 21:45:52 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 21:45:52 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 21:45:52 INFO  time: compiled design-patterns-examples in 1.37s
+Mar 13, 2026 9:45:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 971
+Mar 13, 2026 9:45:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 975
+Mar 13, 2026 9:45:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 978
+Mar 13, 2026 9:45:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 981
+Mar 13, 2026 9:50:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1027
+Mar 13, 2026 9:50:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1030
+Mar 13, 2026 9:50:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1032
+Mar 13, 2026 9:50:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1055
+Mar 13, 2026 9:51:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1081
+Mar 13, 2026 9:51:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1087
+Mar 13, 2026 9:51:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1090
+Mar 13, 2026 9:51:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1095
+Mar 13, 2026 10:05:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1434
+Mar 13, 2026 10:05:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1480
+2026.03.13 22:05:14 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 22:05:15 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 22:05:15 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 22:05:15 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 22:05:15 INFO  time: compiled design-patterns-examples in 1.61s
+2026.03.13 22:06:02 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 22:06:03 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 22:06:03 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 22:06:03 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 22:06:03 INFO  time: compiled design-patterns-examples in 1.23s
+2026.03.13 23:03:19 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 23:03:23 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 23:03:23 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:03:23 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:03:23 INFO  time: compiled design-patterns-examples in 3.79s
+Mar 13, 2026 11:03:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1533
+Mar 13, 2026 11:03:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1532
+2026.03.13 23:03:28 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 23:03:30 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\EmailMsgListener.java:3: error: cannot find symbol
+public record EmailMsgListener(String email) implements Listener {
+                                                        ^
+  symbol: class Listener
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\EmailMsgListener.java:6: error: cannot find symbol
+    public void update(Event eventType) {
+                       ^
+  symbol:   class Event
+  location: class EmailMsgListener
+2 errors
+1 warning.
+2026.03.13 23:03:30 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:03:30 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:03:30 WARN  javac exited with exit code 1
+2026.03.13 23:03:30 INFO  time: compiled design-patterns-examples in 2.29s
+2026.03.13 23:04:09 INFO  compiling design-patterns-examples (2 java sources)
+2026.03.13 23:04:11 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\EmailMsgListener.java:3: error: cannot find symbol
+public record EmailMsgListener(String email) implements Listener {
+                                                        ^
+  symbol: class Listener
+1 error
+1 warning.
+2026.03.13 23:04:11 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:04:11 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:04:11 WARN  javac exited with exit code 1
+2026.03.13 23:04:11 INFO  time: compiled design-patterns-examples in 1.79s
+2026.03.13 23:04:16 INFO  compiling design-patterns-examples (2 java sources)
+2026.03.13 23:04:17 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\EmailMsgListener.java:3: error: cannot find symbol
+public record EmailMsgListener(String email) implements Listener {
+                                                        ^
+  symbol: class Listener
+1 error
+1 warning.
+2026.03.13 23:04:17 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:04:17 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:04:17 WARN  javac exited with exit code 1
+2026.03.13 23:04:17 INFO  time: compiled design-patterns-examples in 1.19s
+2026.03.13 23:04:40 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.13 23:04:41 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\EmailMsgListener.java:5: error: method does not override or implement a method from a supertype
+    @Override
+    ^
+1 error
+1 warning.
+2026.03.13 23:04:41 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:04:41 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:04:41 WARN  javac exited with exit code 1
+2026.03.13 23:04:41 INFO  time: compiled design-patterns-examples in 1.65s
+2026.03.13 23:04:46 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.13 23:04:47 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 23:04:47 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:04:47 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:04:47 INFO  time: compiled design-patterns-examples in 1.54s
+2026.03.13 23:05:05 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 23:05:07 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 23:05:07 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:05:07 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:05:07 INFO  time: compiled design-patterns-examples in 1.63s
+Mar 13, 2026 11:05:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1679
+Mar 13, 2026 11:05:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1680
+2026.03.13 23:05:38 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 23:05:39 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:12: error: cannot find symbol
+        Store store = new Store();
+        ^
+  symbol:   class Store
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:12: error: cannot find symbol
+        Store store = new Store();
+                          ^
+  symbol:   class Store
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:13: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:14: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:15: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@subs.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:16: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new MobileAppListener("GeekificLnS"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:16: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new MobileAppListener("GeekificLnS"));
+                                                   ^
+  symbol:   class MobileAppListener
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:26: error: cannot find symbol
+        store.getService().unsubscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                       ^
+  symbol:   variable SALE
+  location: class MainApp
+8 errors
+1 warning.
+2026.03.13 23:05:39 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:05:39 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:05:39 WARN  javac exited with exit code 1
+2026.03.13 23:05:39 INFO  time: compiled design-patterns-examples in 1.2s
+2026.03.13 23:06:56 INFO  compiling design-patterns-examples (2 java sources)
+2026.03.13 23:06:58 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:12: error: cannot find symbol
+        Store store = new Store();
+        ^
+  symbol:   class Store
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:12: error: cannot find symbol
+        Store store = new Store();
+                          ^
+  symbol:   class Store
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:13: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:14: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:15: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@subs.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:16: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new MobileAppListener("GeekificLnS"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:16: error: constructor MobileAppListener in record MobileAppListener cannot be applied to given types;
+        store.getService().subscribe(NEW_ITEM, new MobileAppListener("GeekificLnS"));
+                                               ^
+  required: no arguments
+  found:    String
+  reason: actual and formal argument lists differ in length
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:26: error: cannot find symbol
+        store.getService().unsubscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                       ^
+  symbol:   variable SALE
+  location: class MainApp
+8 errors
+1 warning.
+2026.03.13 23:06:58 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:06:58 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:06:58 WARN  javac exited with exit code 1
+2026.03.13 23:06:58 INFO  time: compiled design-patterns-examples in 1.97s
+2026.03.13 23:07:04 INFO  compiling design-patterns-examples (2 java sources)
+2026.03.13 23:07:05 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:12: error: cannot find symbol
+        Store store = new Store();
+        ^
+  symbol:   class Store
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:12: error: cannot find symbol
+        Store store = new Store();
+                          ^
+  symbol:   class Store
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:13: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:14: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:15: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@subs.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:16: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new MobileAppListener("GeekificLnS"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:26: error: cannot find symbol
+        store.getService().unsubscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                       ^
+  symbol:   variable SALE
+  location: class MainApp
+7 errors
+1 warning.
+2026.03.13 23:07:05 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:07:05 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:07:05 WARN  javac exited with exit code 1
+2026.03.13 23:07:05 INFO  time: compiled design-patterns-examples in 1.27s
+2026.03.13 23:07:12 INFO  compiling design-patterns-examples (2 java sources)
+2026.03.13 23:07:13 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:12: error: cannot find symbol
+        Store store = new Store();
+        ^
+  symbol:   class Store
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:12: error: cannot find symbol
+        Store store = new Store();
+                          ^
+  symbol:   class Store
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:13: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:14: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:15: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@subs.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:16: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new MobileAppListener("GeekificLnS"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:26: error: cannot find symbol
+        store.getService().unsubscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                       ^
+  symbol:   variable SALE
+  location: class MainApp
+7 errors
+1 warning.
+2026.03.13 23:07:13 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:07:13 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:07:13 WARN  javac exited with exit code 1
+2026.03.13 23:07:13 INFO  time: compiled design-patterns-examples in 1.44s
+2026.03.13 23:07:39 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.13 23:07:41 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:12: error: cannot find symbol
+        Store store = new Store();
+        ^
+  symbol:   class Store
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:12: error: cannot find symbol
+        Store store = new Store();
+                          ^
+  symbol:   class Store
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:13: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:14: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:15: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@subs.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:16: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new MobileAppListener("GeekificLnS"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:26: error: cannot find symbol
+        store.getService().unsubscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                       ^
+  symbol:   variable SALE
+  location: class MainApp
+7 errors
+1 warning.
+2026.03.13 23:07:41 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:07:41 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:07:41 WARN  javac exited with exit code 1
+2026.03.13 23:07:41 INFO  time: compiled design-patterns-examples in 1.76s
+2026.03.13 23:07:43 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.13 23:07:46 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:12: error: cannot find symbol
+        Store store = new Store();
+        ^
+  symbol:   class Store
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:12: error: cannot find symbol
+        Store store = new Store();
+                          ^
+  symbol:   class Store
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:13: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:14: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:15: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@subs.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:16: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new MobileAppListener("GeekificLnS"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:26: error: cannot find symbol
+        store.getService().unsubscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                       ^
+  symbol:   variable SALE
+  location: class MainApp
+7 errors
+1 warning.
+2026.03.13 23:07:46 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:07:46 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:07:46 WARN  javac exited with exit code 1
+2026.03.13 23:07:46 INFO  time: compiled design-patterns-examples in 3.21s
+Mar 13, 2026 11:07:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1946
+2026.03.13 23:08:37 INFO  compiling design-patterns-examples (4 java sources)
+2026.03.13 23:08:39 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:13: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:13: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new EmailMsgListener("geekific@like.com"));
+             ^
+  symbol:   method getService()
+  location: variable store of type Store
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:14: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:14: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@like.com"));
+             ^
+  symbol:   method getService()
+  location: variable store of type Store
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:15: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@subs.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:15: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@subs.com"));
+             ^
+  symbol:   method getService()
+  location: variable store of type Store
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:16: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new MobileAppListener("GeekificLnS"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:16: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new MobileAppListener("GeekificLnS"));
+             ^
+  symbol:   method getService()
+  location: variable store of type Store
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:18: error: cannot find symbol
+        store.newItemPromotion();
+             ^
+  symbol:   method newItemPromotion()
+  location: variable store of type Store
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:22: error: cannot find symbol
+        store.salePromotion();
+             ^
+  symbol:   method salePromotion()
+  location: variable store of type Store
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:26: error: cannot find symbol
+        store.getService().unsubscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                       ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:26: error: cannot find symbol
+        store.getService().unsubscribe(SALE, new EmailMsgListener("geekific@like.com"));
+             ^
+  symbol:   method getService()
+  location: variable store of type Store
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:27: error: cannot find symbol
+        store.salePromotion();
+             ^
+  symbol:   method salePromotion()
+  location: variable store of type Store
+13 errors
+1 warning.
+2026.03.13 23:08:39 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:08:39 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:08:39 WARN  javac exited with exit code 1
+2026.03.13 23:08:39 INFO  time: compiled design-patterns-examples in 1.7s
+2026.03.13 23:08:40 INFO  Created report: Optional[file:///D:/work/Design-Patterns/src/main/java/com/minghui/designpatterns/behavioural/observer/Store.java]
+2026.03.13 23:08:40 INFO  empty definition using pc, found symbol in pc:  (full report at: "D:\work\Design-Patterns\.metals\.reports\metals-full\2026-03-13\r_empty-definition_(design-patterns-examples)_23-08-40-903.md")
+2026.03.13 23:08:50 INFO  compiling design-patterns-examples (4 java sources)
+2026.03.13 23:08:51 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:13: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:14: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:15: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@subs.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:16: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new MobileAppListener("GeekificLnS"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:26: error: cannot find symbol
+        store.getService().unsubscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                       ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\Store.java:14: error: cannot find symbol
+        notificationService.notifyCustomers(NEW_ITEM);
+                                            ^
+  symbol:   variable NEW_ITEM
+  location: class Store
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\Store.java:18: error: cannot find symbol
+        notificationService.notifyCustomers(SALE);
+                                            ^
+  symbol:   variable SALE
+  location: class Store
+7 errors
+1 warning.
+2026.03.13 23:08:51 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:08:51 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:08:51 WARN  javac exited with exit code 1
+2026.03.13 23:08:51 INFO  time: compiled design-patterns-examples in 1.48s
+Mar 13, 2026 11:08:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2099
+Mar 13, 2026 11:09:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2160
+2026.03.13 23:10:35 INFO  compiling design-patterns-examples (4 java sources)
+2026.03.13 23:10:37 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:13: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:14: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:15: error: cannot find symbol
+        store.getService().subscribe(SALE, new EmailMsgListener("geekific@subs.com"));
+                                     ^
+  symbol:   variable SALE
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:16: error: cannot find symbol
+        store.getService().subscribe(NEW_ITEM, new MobileAppListener("GeekificLnS"));
+                                     ^
+  symbol:   variable NEW_ITEM
+  location: class MainApp
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\observer\MainApp.java:26: error: cannot find symbol
+        store.getService().unsubscribe(SALE, new EmailMsgListener("geekific@like.com"));
+                                       ^
+  symbol:   variable SALE
+  location: class MainApp
+5 errors
+1 warning.
+2026.03.13 23:10:37 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:10:37 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:10:37 WARN  javac exited with exit code 1
+2026.03.13 23:10:37 INFO  time: compiled design-patterns-examples in 1.52s
+Mar 13, 2026 11:10:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2200
+2026.03.13 23:10:47 INFO  compiling design-patterns-examples (4 java sources)
+2026.03.13 23:10:50 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 23:10:50 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:10:50 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:10:50 INFO  time: compiled design-patterns-examples in 2.44s
+2026.03.13 23:12:26 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 23:12:27 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 23:12:27 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:12:27 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:12:27 INFO  time: compiled design-patterns-examples in 1.29s
+Mar 13, 2026 11:12:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2418
+2026.03.13 23:12:48 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 23:12:49 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 23:12:49 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:12:49 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:12:49 INFO  time: compiled design-patterns-examples in 1.38s
+2026.03.13 23:13:26 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 23:13:28 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 23:13:28 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:13:28 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:13:28 INFO  time: compiled design-patterns-examples in 1.34s
+Mar 13, 2026 11:13:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2457
+Mar 13, 2026 11:13:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2474
+Mar 13, 2026 11:13:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2476
+Mar 13, 2026 11:13:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2477
+2026.03.13 23:13:42 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 23:13:44 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 23:13:44 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:13:44 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:13:44 INFO  time: compiled design-patterns-examples in 1.54s
+Mar 13, 2026 11:14:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2555
+2026.03.13 23:14:28 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 23:14:30 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 23:14:30 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:14:30 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:14:30 INFO  time: compiled design-patterns-examples in 1.47s
+Mar 13, 2026 11:14:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2582
+Mar 13, 2026 11:14:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2641
+2026.03.13 23:14:45 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 23:14:46 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 23:14:46 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:14:46 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:14:46 INFO  time: compiled design-patterns-examples in 1.25s
+Mar 13, 2026 11:15:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2670
+Mar 13, 2026 11:15:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2676
+Mar 13, 2026 11:15:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2695
+2026.03.13 23:15:41 INFO  compiling design-patterns-examples (1 java source)
+2026.03.13 23:15:42 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.13 23:15:42 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.13 23:15:42 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.13 23:15:42 INFO  time: compiled design-patterns-examples in 1.75s
+2026.03.14 00:08:49 INFO  compiling design-patterns-examples (1 java source)
+2026.03.14 00:08:51 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.14 00:08:51 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:08:51 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:08:51 INFO  time: compiled design-patterns-examples in 2.38s
+Mar 14, 2026 12:09:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2775
+2026.03.14 00:09:16 INFO  compiling design-patterns-examples (1 java source)
+2026.03.14 00:09:17 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:5: error: cannot find symbol
+public class LockedState extends State {
+                                 ^
+  symbol: class State
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:7: error: cannot find symbol
+    public LockedState(Phone phone) {
+                       ^
+  symbol:   class Phone
+  location: class LockedState
+3 errors
+1 warning.
+2026.03.14 00:09:17 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:09:17 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:09:17 WARN  javac exited with exit code 1
+2026.03.14 00:09:17 INFO  time: compiled design-patterns-examples in 1.06s
+2026.03.14 00:09:35 INFO  compiling design-patterns-examples (2 java sources)
+2026.03.14 00:09:36 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:5: error: cannot find symbol
+public class LockedState extends State {
+                                 ^
+  symbol: class State
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:7: error: cannot find symbol
+    public LockedState(Phone phone) {
+                       ^
+  symbol:   class Phone
+  location: class LockedState
+3 errors
+1 warning.
+2026.03.14 00:09:36 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:09:36 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:09:36 WARN  javac exited with exit code 1
+2026.03.14 00:09:36 INFO  time: compiled design-patterns-examples in 1.31s
+2026.03.14 00:09:38 INFO  Created report: Optional[file:///D:/work/Design-Patterns/src/main/java/com/minghui/designpatterns/behavioural/state/states/OffState.java]
+2026.03.14 00:09:38 INFO  empty definition using pc, found symbol in pc: _empty_/Phone# (full report at: "D:\work\Design-Patterns\.metals\.reports\metals-full\2026-03-14\r_empty-definition_(design-patterns-examples)_00-09-38-383.md")
+2026.03.14 00:09:48 INFO  compiling design-patterns-examples (2 java sources)
+2026.03.14 00:09:49 INFO  Created report: Optional[file:///D:/work/Design-Patterns/src/main/java/com/minghui/designpatterns/behavioural/state/states/OffState.java]
+2026.03.14 00:09:49 INFO  empty definition using pc, found symbol in pc: com/minghui/designpatterns/behavioural/state/Phone# (full report at: "D:\work\Design-Patterns\.metals\.reports\metals-full\2026-03-14\r_empty-definition_(design-patterns-examples)_00-09-49-306.md")
+2026.03.14 00:09:50 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:5: error: cannot find symbol
+public class LockedState extends State {
+                                 ^
+  symbol: class State
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:7: error: cannot find symbol
+    public LockedState(Phone phone) {
+                       ^
+  symbol:   class Phone
+  location: class LockedState
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:5: error: cannot find symbol
+public class OffState extends State {
+                              ^
+  symbol: class State
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:7: error: cannot find symbol
+    public OffState(Phone phone) {
+                    ^
+  symbol:   class Phone
+  location: class OffState
+6 errors
+1 warning.
+2026.03.14 00:09:50 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:09:50 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:09:50 WARN  javac exited with exit code 1
+2026.03.14 00:09:50 INFO  time: compiled design-patterns-examples in 1.27s
+2026.03.14 00:10:04 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.14 00:10:06 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:5: error: cannot find symbol
+public class LockedState extends State {
+                                 ^
+  symbol: class State
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:7: error: cannot find symbol
+    public LockedState(Phone phone) {
+                       ^
+  symbol:   class Phone
+  location: class LockedState
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:5: error: cannot find symbol
+public class OffState extends State {
+                              ^
+  symbol: class State
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:7: error: cannot find symbol
+    public OffState(Phone phone) {
+                    ^
+  symbol:   class Phone
+  location: class OffState
+6 errors
+1 warning.
+2026.03.14 00:10:06 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:10:06 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:10:06 WARN  javac exited with exit code 1
+2026.03.14 00:10:06 INFO  time: compiled design-patterns-examples in 1.34s
+2026.03.14 00:10:18 INFO  compiling design-patterns-examples (3 java sources)
+2026.03.14 00:10:19 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:5: error: cannot find symbol
+public class LockedState extends State {
+                                 ^
+  symbol: class State
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:7: error: cannot find symbol
+    public LockedState(Phone phone) {
+                       ^
+  symbol:   class Phone
+  location: class LockedState
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:5: error: cannot find symbol
+public class OffState extends State {
+                              ^
+  symbol: class State
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:7: error: cannot find symbol
+    public OffState(Phone phone) {
+                    ^
+  symbol:   class Phone
+  location: class OffState
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\ReadyState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\ReadyState.java:5: error: cannot find symbol
+public class ReadyState extends State {
+                                ^
+  symbol: class State
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\ReadyState.java:7: error: cannot find symbol
+    public ReadyState(Phone phone) {
+                      ^
+  symbol:   class Phone
+  location: class ReadyState
+9 errors
+1 warning.
+2026.03.14 00:10:19 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:10:19 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:10:19 WARN  javac exited with exit code 1
+2026.03.14 00:10:19 INFO  time: compiled design-patterns-examples in 1.17s
+2026.03.14 00:10:42 INFO  compiling design-patterns-examples (4 java sources)
+2026.03.14 00:10:43 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:7: error: cannot find symbol
+    public LockedState(Phone phone) {
+                       ^
+  symbol:   class Phone
+  location: class LockedState
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:7: error: cannot find symbol
+    public OffState(Phone phone) {
+                    ^
+  symbol:   class Phone
+  location: class OffState
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\ReadyState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\ReadyState.java:7: error: cannot find symbol
+    public ReadyState(Phone phone) {
+                      ^
+  symbol:   class Phone
+  location: class ReadyState
+6 errors
+1 warning.
+2026.03.14 00:10:43 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:10:43 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:10:43 WARN  javac exited with exit code 1
+2026.03.14 00:10:43 INFO  time: compiled design-patterns-examples in 1.26s
+2026.03.14 00:10:45 INFO  compiling design-patterns-examples (4 java sources)
+2026.03.14 00:10:46 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\LockedState.java:7: error: cannot find symbol
+    public LockedState(Phone phone) {
+                       ^
+  symbol:   class Phone
+  location: class LockedState
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\State.java:5: error: cannot find symbol
+    protected Phone phone;
+              ^
+  symbol:   class Phone
+  location: class State
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\State.java:7: error: cannot find symbol
+    public State(Phone phone) {
+                 ^
+  symbol:   class Phone
+  location: class State
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\OffState.java:7: error: cannot find symbol
+    public OffState(Phone phone) {
+                    ^
+  symbol:   class Phone
+  location: class OffState
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\ReadyState.java:3: error: cannot find symbol
+import com.minghui.designpatterns.behavioural.state.Phone;
+                                                   ^
+  symbol:   class Phone
+  location: package com.minghui.designpatterns.behavioural.state
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\ReadyState.java:7: error: cannot find symbol
+    public ReadyState(Phone phone) {
+                      ^
+  symbol:   class Phone
+  location: class ReadyState
+8 errors
+1 warning.
+2026.03.14 00:10:46 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:10:46 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:10:46 WARN  javac exited with exit code 1
+2026.03.14 00:10:46 INFO  time: compiled design-patterns-examples in 1.08s
+2026.03.14 00:14:42 INFO  compiling design-patterns-examples (4 java sources)
+2026.03.14 00:14:42 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\State.java:3: error: class, interface, enum, or record expected
+package com.minghui.designpatterns.behavioural.state.Phone;
+^
+1 error
+1 warning.
+2026.03.14 00:14:42 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:14:42 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:14:42 WARN  javac exited with exit code 1
+2026.03.14 00:14:42 INFO  time: compiled design-patterns-examples in 0.43s
+2026.03.14 00:15:01 INFO  compiling design-patterns-examples (5 java sources)
+2026.03.14 00:15:01 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\State.java:3: error: class, interface, enum, or record expected
+package com.minghui.designpatterns.behavioural.state.Phone;
+^
+1 error
+1 warning.
+2026.03.14 00:15:01 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:15:01 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:15:01 WARN  javac exited with exit code 1
+2026.03.14 00:15:01 INFO  time: compiled design-patterns-examples in 0.52s
+2026.03.14 00:15:04 INFO  Created report: Optional[file:///D:/work/Design-Patterns/src/main/java/com/minghui/designpatterns/behavioural/state/MainApp.java]
+2026.03.14 00:15:04 INFO  empty definition using pc, found symbol in pc: _empty_/Phone# (full report at: "D:\work\Design-Patterns\.metals\.reports\metals-full\2026-03-14\r_empty-definition_(design-patterns-examples)_00-15-04-899.md")
+2026.03.14 00:15:08 INFO  compiling design-patterns-examples (5 java sources)
+2026.03.14 00:15:09 INFO  empty definition using pc, found symbol in pc: _empty_/Phone# (full report at: "D:\work\Design-Patterns\.metals\.reports\metals-full\2026-03-14\r_empty-definition_(design-patterns-examples)_00-15-04-899.md")
+2026.03.14 00:15:08 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\State.java:3: error: class, interface, enum, or record expected
+package com.minghui.designpatterns.behavioural.state.Phone;
+^
+1 error
+1 warning.
+2026.03.14 00:15:08 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:15:08 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:15:08 WARN  javac exited with exit code 1
+2026.03.14 00:15:09 INFO  empty definition using pc, found symbol in pc: _empty_/Phone# (full report at: "D:\work\Design-Patterns\.metals\.reports\metals-full\2026-03-14\r_empty-definition_(design-patterns-examples)_00-15-04-899.md")
+2026.03.14 00:15:08 INFO  time: compiled design-patterns-examples in 0.52s
+2026.03.14 00:15:16 INFO  compiling design-patterns-examples (6 java sources)
+2026.03.14 00:15:16 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\State.java:3: error: class, interface, enum, or record expected
+package com.minghui.designpatterns.behavioural.state.Phone;
+^
+1 error
+1 warning.
+2026.03.14 00:15:16 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:15:16 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:15:16 WARN  javac exited with exit code 1
+2026.03.14 00:15:16 INFO  time: compiled design-patterns-examples in 0.55s
+2026.03.14 00:15:56 INFO  compiling design-patterns-examples (6 java sources)
+2026.03.14 00:15:56 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\Phone.java:3: error: class, interface, enum, or record expected
+package com.minghui.designpatterns.behavioural.states.State;
+^
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\Phone.java:4: error: class, interface, enum, or record expected
+package com.minghui.designpatterns.behavioural.state.OffState;
+^
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\State.java:3: error: class, interface, enum, or record expected
+package com.minghui.designpatterns.behavioural.state.Phone;
+^
+3 errors
+1 warning.
+2026.03.14 00:15:56 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:15:56 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:15:56 WARN  javac exited with exit code 1
+2026.03.14 00:15:56 INFO  time: compiled design-patterns-examples in 0.42s
+2026.03.14 00:16:20 INFO  compiling design-patterns-examples (6 java sources)
+2026.03.14 00:16:20 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\Phone.java:3: error: class, interface, enum, or record expected
+package com.minghui.designpatterns.behavioural.state.states.State;
+^
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\Phone.java:4: error: class, interface, enum, or record expected
+package com.minghui.designpatterns.behavioural.state.states.OffState;
+^
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\State.java:3: error: class, interface, enum, or record expected
+package com.minghui.designpatterns.behavioural.state.Phone;
+^
+3 errors
+1 warning.
+2026.03.14 00:16:20 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:16:20 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:16:20 WARN  javac exited with exit code 1
+2026.03.14 00:16:20 INFO  time: compiled design-patterns-examples in 0.41s
+2026.03.14 00:16:54 INFO  compiling design-patterns-examples (6 java sources)
+2026.03.14 00:16:54 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+D:\work\Design-Patterns\src\main\java\com\minghui\designpatterns\behavioural\state\states\State.java:3: error: class, interface, enum, or record expected
+package com.minghui.designpatterns.behavioural.state.Phone;
+^
+1 error
+1 warning.
+2026.03.14 00:16:54 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:16:54 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:16:54 WARN  javac exited with exit code 1
+2026.03.14 00:16:54 INFO  time: compiled design-patterns-examples in 0.5s
+Mar 14, 2026 12:17:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3588
+2026.03.14 00:17:54 INFO  compiling design-patterns-examples (6 java sources)
+2026.03.14 00:17:55 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.14 00:17:55 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:17:55 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:17:55 INFO  time: compiled design-patterns-examples in 1.84s
+Mar 14, 2026 12:17:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3619
+Mar 14, 2026 12:22:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4016
+Mar 14, 2026 12:22:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4127
+2026.03.14 00:23:04 INFO  compiling design-patterns-examples (1 java source)
+2026.03.14 00:23:06 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.14 00:23:06 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:23:06 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:23:06 INFO  time: compiled design-patterns-examples in 1.21s
+Mar 14, 2026 12:23:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4381
+2026.03.14 00:23:48 INFO  compiling design-patterns-examples (1 java source)
+2026.03.14 00:23:49 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.14 00:23:49 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:23:49 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:23:49 INFO  time: compiled design-patterns-examples in 1.53s
+Mar 14, 2026 12:24:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4686
+2026.03.14 00:24:24 INFO  compiling design-patterns-examples (1 java source)
+2026.03.14 00:24:26 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 17
+Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+1 warning.
+2026.03.14 00:24:26 WARN  javac: [options] system modules path not set in conjunction with -source 17
+2026.03.14 00:24:26 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.03.14 00:24:26 INFO  time: compiled design-patterns-examples in 1.27s
+2026.03.14 00:27:47 INFO  Shutting down server
+2026.03.14 00:27:47 INFO  Memory monitor stopped
+2026.03.14 00:27:47 INFO  shutting down Metals
+2026.03.14 00:27:47 INFO  Shut down connection with build server.
+2026.03.14 00:27:47 INFO  Exiting server
